@@ -14,7 +14,8 @@ Sigue los siguientes pasos para correr el proyecto de menúlife
 
 ### Instalacion del proyecto
 
-Descargar el proyecto dentro del directorio del proyecto hacemos clic derecho y clic en la opcion git bash here que aparece cuando instalamos Git
+Descargar el proyecto
+Dentro del directorio del proyecto hacemos clic derecho y clic en la opcion git bash here que aparece cuando instalamos Git
 Dentro de la ventana que se abre ejecutaremos el siguiente comando para instalar laravel en tu equipo
 ```
 composer global require "laravel/installer"
