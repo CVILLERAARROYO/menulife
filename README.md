@@ -36,6 +36,8 @@ Despues de ejecutar ese comando en nuestra base de datos deben aparecer las sigu
 * password_resets 
 * renal social_accounts
 * users
+
+*Nota puede que por defecto en la base de datos te aparezcan las tablas de migrations y users debes eliminarlas y volver a ejecutar el comando php artisan migrate
 ### Ejecutar y ver el proyeccto
 En la ventana de GIT ejecutaremos el siguiente comando
 ```
